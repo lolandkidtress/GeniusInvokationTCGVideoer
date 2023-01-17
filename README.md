@@ -3,7 +3,7 @@
 
 打牌时录制视频,记录牌组和胜负
 
-下载地址(复制地址到浏览器地址栏打开): http://cdn-js.geniusinvokationtcg.cc/release/release0117.zip
+百度网盘链接:https://pan.baidu.com/s/1xWFcrvS6YzonmaOYv5oFLA  密码:m8o1
   
 ***
 **使用教程:**
