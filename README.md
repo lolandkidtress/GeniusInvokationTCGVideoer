@@ -3,6 +3,8 @@
 
 打牌时录制视频,记录牌组和胜负
 
+[下载地址](http://cdn-js.geniusinvokationtcg.cc/release/release0117.zip)
+  
 ***
 **使用教程:**
 1.安装jdk8环境,[安装方法](https://blog.csdn.net/qq_35160479/article/details/120685795)
