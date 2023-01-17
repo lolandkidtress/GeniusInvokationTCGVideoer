@@ -3,7 +3,7 @@
 
 打牌时录制视频,记录牌组和胜负
 
-[下载地址](http://cdn-js.geniusinvokationtcg.cc/release/release0117.zip)
+下载:http://cdn-js.geniusinvokationtcg.cc/release/release0117.zip
   
 ***
 **使用教程:**
