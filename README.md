@@ -10,7 +10,7 @@
 
 1.安装jdk8环境,[安装方法](https://blog.csdn.net/qq_35160479/article/details/120685795)
 
-2.下载jar文件,链接
+2.下载zip文件,解压到文件目录
 
 3.点击开始start.cmd命令启动,浏览器中通过 http://127.0.0.1:8081/TCG/front/login
 登录即可
