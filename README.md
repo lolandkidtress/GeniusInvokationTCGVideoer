@@ -2,15 +2,13 @@
 七圣召唤录像助手1.0
 
 打牌时录制视频,记录牌组和胜负
-
-百度网盘链接:https://pan.baidu.com/s/1xWFcrvS6YzonmaOYv5oFLA  密码:m8o1
   
 ***
 **使用教程:**
 
 1.安装jdk8环境,[安装方法](https://blog.csdn.net/qq_35160479/article/details/120685795)
 
-2.下载zip文件,解压到文件目录
+2.下载zip文件,解压到文件目录 (百度网盘链接:https://pan.baidu.com/s/1xWFcrvS6YzonmaOYv5oFLA  密码:m8o1)
 
 3.双击start.cmd命令启动,浏览器中通过 http://127.0.0.1:8081/TCG/front/login 登录即可
 
