@@ -1,5 +1,5 @@
 # GeniusInvokationTCGVideoer
-七圣召唤录像助手1.1
+原神七圣召唤录像助手1.1
 
 打牌时录制视频,记录牌组和胜负
   
