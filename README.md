@@ -8,7 +8,11 @@
 
 1.安装jdk8环境,[安装方法](https://blog.csdn.net/qq_35160479/article/details/120685795)
 
-2.下载zip文件,解压到文件目录 (百度网盘链接:https://pan.baidu.com/s/19HMu_FyuxjBrxFkghOxXYQ?pwd=8z2t 密码:8z2t)
+2.下载程序（2种方式任选其一）
+
+  a.百度网盘链接:https://pan.baidu.com/s/19HMu_FyuxjBrxFkghOxXYQ 密码:8z2t，下载并解压压缩包。
+
+  b.阿里云盘链接:https://www.aliyundrive.com/s/faad5rgesSc 密码:9nh3，下载目录下全部文件。
 
 3.双击start.cmd命令启动,浏览器中通过 http://127.0.0.1:8081/TCG/front/login 登录即可
 
