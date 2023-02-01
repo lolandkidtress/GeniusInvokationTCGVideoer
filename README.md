@@ -14,7 +14,7 @@
 
   b.阿里云盘链接:https://www.aliyundrive.com/s/faad5rgesSc 密码:9nh3，下载目录下全部文件。
 
-3.双击start.cmd命令启动,浏览器中通过 http://127.0.0.1:8081/TCG/front/login 登录即可
+3.双击start.cmd命令启动,浏览器中通过 http://127.0.0.1:8081/TCG/front/login ,扫公众号二维码获取验证码登录
 
 4.开始打牌前,请点击开始录制按钮
 
